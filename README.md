@@ -3,9 +3,7 @@
 
 The Recipe Application is a tool designed to simplify the process of creating, managing, and scaling recipes. With this application, users can easily input ingredients, quantities, units of measurement, and steps involved in creating a recipe. Additionally, the program provides functionality to scale, clear, or delete recipes as needed. 
 
-# Technologies Used
-.net 
-Visual Studio code
+
 # Usage
 To use the Recipe Application, follow these steps:
 
